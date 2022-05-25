@@ -2,7 +2,6 @@ import React, { useState } from 'react'
 
 const AddArray = () => {
 
-console.log("1");
 
     const [titele, setTitele] = useState<string>('Динимический input')
 
