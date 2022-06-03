@@ -2,6 +2,10 @@ import React, { useState } from 'react'
 
 const AddArray = () => {
 
+    console.log("11MASTER");
+    console.log("11");
+    console.log("11");
+    console.log("11");
     console.log("11");
     console.log("11");
 
