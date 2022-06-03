@@ -4,6 +4,10 @@ const AddArray = () => {
 
     console.log("112222222");
     console.log("11222222222");
+    console.log("112222222");
+    console.log("11222222222");
+    console.log("112222222");
+    console.log("11222222222");
 
     const [titele, setTitele] = useState<string>('Динимический input')
 
